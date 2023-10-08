@@ -19,4 +19,4 @@ These sheets were integrated into a single interactive dashboard, enhanced with 
 [Tableau Workbook Link](https://public.tableau.com/views/OrdersShiping/OrdersShiping?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Skills:
-Tableau, Business Intelligence (BI)
+Data Analysis · Business Intelligence (BI) · Tableau · Data Visualization
